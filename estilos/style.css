@@ -18,6 +18,8 @@ font-family: 'Source Sans Pro', sans-serif; para textos
     font-family: 'Source Sans Pro', sans-serif;
     background-color: #F5F5F5;
     
+    
+    
 }
 
 
@@ -125,6 +127,7 @@ header {
     color: #F5F5F5;
     padding: 15px 60px;
     font-family: 'Source Sans Pro', sans-serif;
+    border: 0px;
     border-radius: 5px;
     font-size: 16px;
     margin-top: 50px;
@@ -143,7 +146,7 @@ header {
 }
 .imagem_section1 img {
     width: 600px;
-    height: 450px;
+    height: 500px;
     margin-top: 20px;
     border-radius: 3px;
     margin-right: 20px;
@@ -203,9 +206,8 @@ header {
     background-color: #C4AC4B;
     color: #F5F5F5;
     transition: 0.4s;
-    font-size: 15px;
-    font-weight: normal;
-    box-shadow: none;
+    font-size: 14px;
+    font-weight: bold;    
     border: 1 solid #313131;
 }
 
@@ -236,5 +238,5 @@ header {
     background-color: #313131;
     color: #C4AC4B;
     padding-top: 20px;
-    margin-bottom: 1px;      
+    margin-bottom: px;      
 }
