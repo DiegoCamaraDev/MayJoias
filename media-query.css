@@ -2,14 +2,19 @@
 
 @media screen and (min-width: 300px) and (max-width: 670px) {
 
-    header{
-        
+    body{
+        background-color: aqua;
     }
-    
+
+   header{
+    background-color: #F5F5F5;
+    color: white;
+   }
+    .hamburguer{
+        display: block;
+    }
     .menu{
-        
-        
-        
+        display: none;   
     }
 
     .logo-img{
